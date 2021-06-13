@@ -7,4 +7,4 @@ heart : https://www.kaggle.com/ronitf/heart-disease-uci
 
 Heart_Disease_Prediction : https://data.world/informatics-edu/heart-disease-prediction?oauthError=github
 
-bak : https://data.world/informatics-edu/heart-disease-prediction
+bak : https://data.world/uci/heart-disease/workspace/file?filename=bak.csv
