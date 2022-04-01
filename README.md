@@ -1,5 +1,5 @@
 # ds3000-final-project
-the links :
+Please finds the links to the dataset we gathered for this Heart Disease Analysis and Prediction project:
 
 data : https://www.kaggle.com/imnikhilanand/heart-attack-prediction
 
