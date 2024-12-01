@@ -1,6 +1,6 @@
 # ds3000-final-project
 
-To understand our passion for this Heart Analysis and prediction project, please have a look at the Topic Proposals_group22.pdf.
+To understand our passion for this Heart Disease Analysis and prediction project, please have a look at the Topic Proposals_group22.pdf.
 
 The datasets we wrangled online from Kaggle and Data World websites are the data.csv, bak.csv, heart.csv, and Heart_Disease_Predictiont.csv, and we finally cleaned them and export them as the FP_new_dataset.csv.
  
